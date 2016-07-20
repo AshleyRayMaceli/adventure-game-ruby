@@ -10,11 +10,11 @@ _A Ruby text-based adventure game. The user must choose what doors to pass throu
 
 ## Setup/Installation Requirements
 
-_Have Ruby and Homebrew installed_
-_Clone this repository into your terminal_
-_Enter the file with the command 'cd adventure-time'_
-_Run the file in terminal with the command 'ruby Week6_AdventureTime.rb'_
-_Embark on a journey through many doors with various surprises..._
+* _Have Ruby and Homebrew installed_
+* _Clone this repository into your terminal_
+* _Enter the file with the command 'cd adventure-time'_
+* _Run the file in terminal with the command 'ruby Week6_AdventureTime.rb'_
+* _Embark on a journey through many doors with various surprises..._
 
 ## Support and contact details
 
